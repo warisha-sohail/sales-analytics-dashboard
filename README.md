@@ -1,5 +1,5 @@
-**Made by: Warisha Sohail
-Email: warishasohail06@gmail.com**
+**Made by: Warisha Sohail**
+**Email: warishasohail06@gmail.com**
 
 # Sales & Operations Analytics Dashboard
 
