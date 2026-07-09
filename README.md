@@ -39,6 +39,12 @@ python3 src/etl/pipeline.py
 # Run SQL Queries
 python3 src/etl/sql_queries.py
 
+### Project Preview
+![Sales_Analytics](dashboard_screenshot.png)
+
+### How to interact with the Dashboard
+You can download the full interactive file here: [Download Superstore Dashboard (.pbix)](./Sales_Analytics.pbix)
+
 ## Core Business Insights (SQL Layer)
 * **Segmentation:** Identified which customer segment drives the highest gross revenue vs. net profitability.
 * **Product Performance:** Tracked top-performing Sub-Categories to optimize inventory allocation.
