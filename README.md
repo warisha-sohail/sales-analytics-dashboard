@@ -25,18 +25,18 @@ The data follows a clean modular pipeline implemented in 'src/etl/pipeline.py':
 
 ### How to Run the Pipeline
 '''bash
-# CLone the repository and navigate into it
+### Clone the repository and navigate into it
 git clone ,your-repo-link>
 cd sales-analytics-dashboard
 
-# Activate virtual enviornment and install dependencies
+### Activate virtual enviornment and install dependencies
 source venv/bin/activate
 pip install -r requirements.txt
 
-# Run ETL Pipeline
+### Run ETL Pipeline
 python3 src/etl/pipeline.py
 
-# Run SQL Queries
+### Run SQL Queries
 python3 src/etl/sql_queries.py
 
 ### Project Preview
@@ -45,7 +45,7 @@ python3 src/etl/sql_queries.py
 ### How to interact with the Dashboard
 You can download the full interactive file here: [Download Superstore Dashboard (.pbix)](./Sales_Analytics.pbix)
 
-## Core Business Insights (SQL Layer)
+### Core Business Insights (SQL Layer)
 * **Segmentation:** Identified which customer segment drives the highest gross revenue vs. net profitability.
 * **Product Performance:** Tracked top-performing Sub-Categories to optimize inventory allocation.
 * **Regional Efficiency:** Evaluated geographical distribution of sales alongside localized profit margins.
